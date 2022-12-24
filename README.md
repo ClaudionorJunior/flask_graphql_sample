@@ -114,9 +114,15 @@ mutation {
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - [GraphQl](https://graphql.org/)
 
-
 ## Autor
-
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/58224002?s=400&u=1fec547bef35180a813b16c19f84145bf31726ea&v=4" width="100px;" alt=""/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Claudionor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/claudionorsilva/)](https://br.linkedin.com/in/claudionorsilva)
+<table>
+  <tr>
+    <th><img src="https://avatars.githubusercontent.com/u/82416762?v=4" width=60></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ClaudionorJunior">Github</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/claudionorsilva">Linkedin</a></td>
+  </tr>
+</table>
